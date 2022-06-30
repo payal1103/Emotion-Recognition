@@ -1,12 +1,7 @@
 <h1 align="center">Face Recognition Emotion Detection 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/480px-Microsoft_logo.svg.png" alt="Logo" width="25" height="25">
   <img src="https://media.istockphoto.com/vectors/human-face-recognition-scanning-system-vector-illustration-vector-id1170702687?k=20&m=1170702687&s=612x612&w=0&h=9uLP7HloaQqmeI-S3R_SBB9kDgnq7oGWJlBsfPQlISc=" alt="Logo" width="25" height="25">
 </h1>
-<p align="center">
-  <a target="_blank" href="https://youtu.be/rpJNAE04Qcg"><b>Video Demo</b></a> 
-  <a target="_blank" href="https://www.canva.com/design/DAFB-ga9_fI/TfHtofKeef1m95iMQvaDGg/view?utm_content=DAFB-ga9_fI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><b>. Presentation</b></a> 
-  
-</p>
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -29,7 +24,6 @@
     <li><a href="#preview-of-the-web-application">Preview of the Web Application</a></li><ul>
         <li><a href="#register">Register</a></li>
         <li><a href="#login">Login</a></li>
-        <li><a href="#ui-before-uploading-the-image">UI before Uploading the image</a></li>
         <li><a href="#face-detection-results">Face Detection Results</a></li>
         <li><a href="#django-admin-user-and-web-app-data">Django Admin User and Web App Data</a></li>
       </ul>
@@ -40,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-* Face Detection Emotion Recognition project built during Microsoft Engage 2022 program. 
+* Face Detection Emotion Recognition project 
 * It is a web application through which we can detect the name and emotion of the images uploaded based on my model created . 
 * Displays the face confidence code got from my trained deep learning model.
 * Displays the name and respective probability got from my trained machine learning model.
@@ -147,9 +141,7 @@ It will generate a local host URL and we are good to go
 
 <img src="preview_images_webapp/login.png" alt="login screen" width="700"/>
 
-### UI before Uploading the image
 
-<img src="preview_images_webapp/Before_upload_image.png" alt="UI before uploading the image" width="700"/>
 
 ### Face Detection Results
 
